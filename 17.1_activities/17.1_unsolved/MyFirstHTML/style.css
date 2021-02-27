@@ -1,0 +1,14 @@
+body {background-color: darkblue;
+    text-align: center;}
+
+h1
+{font-size:30px;
+color:aliceblue;
+text-align:center;
+font-family:Georgia, 'Times New Roman', Times, serif;}
+
+p {color:cornflowerblue;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+a {color:darkcyan}
