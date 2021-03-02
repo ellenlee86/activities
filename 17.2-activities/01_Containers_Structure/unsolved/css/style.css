@@ -109,7 +109,7 @@ body {font-family: 'Roboto', sans-serif;}
 .infoActive {
     background-color: #4386ba;
 }
-.sectionHead {
+.sectionhead {
     border-bottom: 8px solid #dddddd;
 }
 
@@ -131,6 +131,6 @@ body {font-family: 'Roboto', sans-serif;}
     font-weight: 700;
 }
 
-.className .type_container {
-     
+.className sectionHead {
+
 }
