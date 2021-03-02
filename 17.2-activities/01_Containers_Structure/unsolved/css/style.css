@@ -123,3 +123,14 @@ body {font-family: 'Roboto', sans-serif;}
     font-weight: 100;
 }
 
+.regular {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.className .type_container {
+     
+}
