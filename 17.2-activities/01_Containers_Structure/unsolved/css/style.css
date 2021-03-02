@@ -12,6 +12,8 @@ body {font-family: 'Roboto', sans-serif;}
 
 #pageTopic {
     text-align: center;
+    font-size: 14px;
+    font-weight: 900;
 }
 
 .colorContainer {
@@ -110,3 +112,14 @@ body {font-family: 'Roboto', sans-serif;}
 .sectionHead {
     border-bottom: 8px solid #dddddd;
 }
+
+.large {
+    font-size: 66px;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.light {
+    font-weight: 100;
+}
+
