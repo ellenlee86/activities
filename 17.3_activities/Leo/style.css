@@ -1,0 +1,29 @@
+nav {
+    background-color:lightblue;
+    height: 100px;
+}
+
+.menu-item {
+    display:inline-block;
+    padding: 15px;
+    text-align: center;
+}
+
+.sidebar {
+    width: 29%;
+    height: 500px;
+    background-color: cadetblue;
+    float: left;
+}
+
+.maincontent {
+    width: 70%;
+    float: left;
+    padding: 40px;
+}
+
+.Leo {
+    width: 250px;
+    
+
+}
