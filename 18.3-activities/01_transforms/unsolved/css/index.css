@@ -17,6 +17,7 @@ body {
 }
 .rotate img {
 /* Write your rotate transform here */
+transform: rotate(30deg);
 }
 .scale {
   grid-area: scale;
@@ -29,6 +30,7 @@ body {
   height: 50px;
   background-color: red;
   margin: 0 auto;
+  transform: scale(5);
   /* Write the scale transform here */
 
 }
@@ -42,6 +44,7 @@ body {
   width: 100px;
   height: 100px;
   background-color: blue;
+  transform: translate(40px, 70px);
   /* Write the translate transform here */
 }
 
