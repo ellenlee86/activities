@@ -69,3 +69,7 @@ p {
   background: #d3f4d0;
   font-weight: 700;
 }
+
+.removeAll {
+  background-color: pink;
+}
