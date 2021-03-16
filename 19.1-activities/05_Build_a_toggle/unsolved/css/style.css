@@ -1,0 +1,48 @@
+/* Style your dropdown below! */
+#toggle {
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+#toggle p {
+    background-color: turquoise;
+    color: white;
+    padding: 15px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid black
+}
+
+ul {
+    padding-left: 0;
+    margin-top: 0px;
+}
+
+
+
+#toggle ul {
+    list-style-type: none;
+    display: none;
+}
+
+#toggle li {
+    border-bottom:1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#toggle img {
+    width: 15px;
+    padding: 5px;
+    padding-right:5px;
+}
+
+.rotate {
+    transform: rotate(180deg);
+}
